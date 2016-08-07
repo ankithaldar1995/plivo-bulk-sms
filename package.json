@@ -1,0 +1,20 @@
+{
+  "name": "plivo-bulk-sms",
+  "version": "1.0.0",
+  "description": "A small utility to send sms in bulk using plivo ",
+  "main": "messenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "plivo",
+    "batching"
+  ],
+  "author": "binora",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.0.0-rc.6",
+    "plivo": "0.3.3"
+  }
+}
